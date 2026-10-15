@@ -1,7 +1,6 @@
-# Conformal temperature margins for ambient-adjusted line ratings
+# Exceedance-risk margins for ambient-adjusted line ratings
 
-Code and data for the IEEE TPEC 2027 paper *Conformal Temperature Margins for Ambient-Adjusted Line Ratings: Lead-Time
-Coverage on Archived Texas Forecasts* by Jiachen Shen, Jian Shi, Zirui Tong and Zhu Han.
+Code and data for the IEEE TPEC 2027 paper *Exceedance-Risk Margins for Ambient-Adjusted Line Ratings* by Jiachen Shen, Jian Shi, Zirui Tong and Zhu Han.
 
 The package name in the code is `aarguard`; the method label `AARGUARD` in the result tables is the conformal margin of the
 paper.
