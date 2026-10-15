@@ -1,0 +1,11 @@
+{
+ "A7_main_configuration": {
+  "method": "split",
+  "W": 90,
+  "cells": "cell (season x 6-h block, LST)",
+  "alpha_primary": 0.05,
+  "aci_gamma": 0.001,
+  "aci_cells": "cell",
+  "reason": "chosen on the validation year (June 2021 to May 2022)"
+ }
+}

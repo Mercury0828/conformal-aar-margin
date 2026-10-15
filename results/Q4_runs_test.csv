@@ -1,0 +1,3 @@
+run,start,end,days,mean_station_avg_daily_max,min_stations_with_max,station,station_hw_hours_union,evaluated_cases,cases_Rhat_gt_Robs,cases_Rlo_gt_Robs,gaps
+1,2023-07-09,2023-09-10,64,37.68111979166667,12,KBPT,541,509,287,28,3
+2,2024-07-31,2024-08-25,26,36.977243589743594,12,KBPT,541,205,137,10,3

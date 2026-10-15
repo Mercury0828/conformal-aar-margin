@@ -1,0 +1,3 @@
+run,station,first_valid,last_valid,n,static_above,forecast_above,conformal_above,mean_static,mean_conformal,mean_forecast,mean_realized,share_conformal_above_static,peak_n,peak_static_above,peak_conformal_above,peak_share_conformal_below_static
+1,KBPT,2023-07-09 06:00:00+00:00,2023-09-11 03:00:00+00:00,509,98,287,28,796.9023564093403,859.3293208222505,887.7250377622207,882.5356757930193,0.6994106090373281,64,51,8,1.0
+2,KBPT,2024-07-31 06:00:00+00:00,2024-08-26 03:00:00+00:00,205,23,137,10,795.7603627700306,864.5929126469682,890.2639398960771,885.0310834483437,0.7365853658536585,26,14,1,1.0

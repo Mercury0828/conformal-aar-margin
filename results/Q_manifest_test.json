@@ -1,0 +1,29 @@
+{
+ "period": "test",
+ "test_open": true,
+ "choice": {
+  "method": "split",
+  "W": 90,
+  "cells": "cell (season x 6-h block, LST)",
+  "alpha_primary": 0.05,
+  "aci_gamma": 0.001,
+  "aci_cells": "cell",
+  "reason": "chosen on the validation year (June 2021 to May 2022)"
+ },
+ "issued_cases": 275976,
+ "missing_obs_cases": 2375,
+ "rows": 273601,
+ "heatwave_rows": 7818,
+ "seconds_total": 1163.1855154037476,
+ "seconds_per_method": {
+  "split_0.01": 41.007164478302,
+  "aci_0.01": 130.65713024139404,
+  "split_0.05": 38.74627232551575,
+  "aci_0.05": 129.87168097496033,
+  "split_0.1": 38.52441072463989,
+  "aci_0.1": 135.78111362457275
+ },
+ "station_years": 35.97535934291581,
+ "split_seconds_per_station_year_alpha05": 1.0770225241167906,
+ "Q1_bar_every_band": true
+}
